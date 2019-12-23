@@ -1,0 +1,14 @@
+insert into books (title,publisher,year,price)
+values('python','Hanbit',2017,25000);
+
+insert into books (title,publisher,year,price)
+values('java','Jungiksa',2019,30000);
+
+insert into books (title,publisher,year,price)
+values('AI','Sangneung',2019,15000);
+
+insert into books (title,publisher,year,price)
+values('Security','Hanshin',2019,50000);
+
+insert into books(title,publisher,year,price)
+values('자바','Hanshin',2019,20000);
